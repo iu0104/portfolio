@@ -1,5 +1,5 @@
 # portfolio
-Portfolio for Internship
+Portfolio as Bachelor
 
 このプログラムは2021年iU情報経営イノベーション専門職大学、
 イノベーションプロジェクトのSA用のGoogleClassroom返信集計プログラムです。
