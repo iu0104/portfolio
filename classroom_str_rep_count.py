@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[3]:
-
-
 import time
 import datetime as dt
 import pandas as pd
@@ -136,10 +133,3 @@ if __name__ == "__main__":
     df_output_csv()
     
     input("Entarキーを押してください")
-
-
-# In[ ]:
-
-
-
-
